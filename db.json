@@ -107,6 +107,50 @@
       "salary": 25,
       "profile": "Profile-03.jpg",
       "id": 11
+    },
+    {
+      "firstname": "fgskjl",
+      "lastname": "narcos",
+      "birthdate": "2022-11-18",
+      "gender": "m",
+      "education": "diploma",
+      "company": "ajaynarcos",
+      "jobExperience": 2,
+      "salary": -25,
+      "id": 12
+    },
+    {
+      "firstname": "ajay",
+      "lastname": "narcos",
+      "birthdate": "2022-11-12",
+      "gender": "m",
+      "education": "graduate",
+      "company": "ajaynarcos",
+      "jobExperience": 11,
+      "salary": 4,
+      "id": 13
+    },
+    {
+      "firstname": "ajay",
+      "lastname": "narcos",
+      "birthdate": "2022-11-11",
+      "gender": "m",
+      "education": "graduate",
+      "company": "ajaynarcos",
+      "jobExperience": 3,
+      "salary": 0,
+      "id": 14
+    },
+    {
+      "firstname": "ajay",
+      "lastname": "ajay",
+      "birthdate": "2022-11-19",
+      "gender": "m",
+      "education": "graduate",
+      "company": "ajaynarcos",
+      "jobExperience": 3,
+      "salary": 3,
+      "id": 15
     }
   ],
   "comments": [],
